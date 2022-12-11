@@ -4,7 +4,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 # Predicting Top Glove Stock Prize With A RNN Model
-A project made to predict Top Glove stock price using a deep learning model. A dataset of Top Glove stock price from March 2017 until October 2021 is used to train the model and a dataset of the stock price from October 2021 until March 2022 is used to test the model. The prediction is evaluate with Mean Absolute Error (MAE) and Mean Absolute Percentage Error (MAPE) metrics and the model managed to score a 3.8% error value on MAPE.
+A project made to predict Top Glove stock price using a deep learning model. A dataset of Top Glove stock price from March 2017 until October 2021 is used to train the model and a dataset of the stock price from October 2021 until March 2022 is used to test the model. The prediction is evaluate with Mean Absolute Error (MAE) and Mean Absolute Percentage Error (MAPE) metrics and the model managed to score a 3.6% error value on MAPE.
 
 The model used in the project is the LSTM and the detailed steps taken in processing the data and building the model is detailed in the sections [below](#steps-taken). Some visualization of the data and model used is also shown in the [Visualization](#visualization) section below along with a graph of the prediction produced by the model againts the true values from the test data.
 
