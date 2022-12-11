@@ -50,7 +50,7 @@ Graph of the training progress along with the validation for each epoch with the
 </p>  
 
 <p align="center">
-The prediction made by the model againts the true values from the test data which managed to score a 3.8% in MAPE value.
+The prediction made by the model againts the true values from the test data which managed to score a 3.6% in MAPE value.
 </p>
 
 
