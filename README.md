@@ -19,7 +19,7 @@ The model used in the project is the LSTM and the detailed steps taken in proces
 
 ## Visualization
 <p align="center">
-  <img src="resources/open_stock_price.png" width=700/>
+  <img src="resources/open_stock_price.png" height=700/>
 </p>  
 
 <p align="center">
@@ -28,7 +28,7 @@ Graph of open stock price after the duplicated data had been filled with interpo
 
 <p><br></p>
 <p align="center">
-  <img src="resources/model.png" width=300/>
+  <img src="resources/model.png" width=350/>
 </p>  
 
 <p align="center">
@@ -46,11 +46,11 @@ Graph of the training progress along with the validation for each epoch with the
 
 <p><br></p>
 <p align="center">
-  <img src="resources/prediction_vs_target.png" width=500/>
+  <img src="resources/prediction_vs_target.png" width=600/>
 </p>  
 
 <p align="center">
-The prediction made by the model againts the true values from the test data which managed to score a 3.6% in MAPE value.
+The prediction made by the model againts the true values from the test data which score a 3.6% in MAPE value.
 </p>
 
 
